@@ -1,0 +1,54 @@
+body {
+    width: 400px;
+}
+#myButtonGroup {
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 100%;
+}
+
+#demo {
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 100%;
+}
+
+#footer {
+    text-align: center;
+    background-color: #4286f4;
+    color: white;
+}
+
+
+#title {
+    background-color: #4286f4;
+    width: 100%;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    text-align: center;
+    color: white;
+    
+}
+
+#red {
+/*    background-color: red;*/
+    color: white;
+}
+
+#blue {
+/*    background-color: blue;*/
+    color: white;
+}
+
+#trolley {
+/*    background-color: yellow;*/
+    color: white;
+}
+
+#night {
+    color: white;
+}
+
+#all {
+/*    background-color: #e0ecff;*/
+}
